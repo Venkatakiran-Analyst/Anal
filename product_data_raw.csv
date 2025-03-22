@@ -1,0 +1,9 @@
+Product_ID,Product_Name,Category,Price,Platform,Syndicated,Validation_Status
+101,Loan Plus,Loan,25000.0,Bank A,Yes,Valid
+102,Credit Gold,Credit Card,5000.0,Bank B,No,Missing Details
+103,Auto Secure,Insurance,15000.0,Bank C,Yes,Invalid Price
+104,Health Cover,Insurance,,Bank A,Yes,Missing Price
+105,Home Protect,Insurance,20000.0,Bank D,No,Valid
+106,Investment Plan,Investment,50000.0,Bank A,Yes,Valid
+107,Wealth Growth,Investment,40000.0,Bank C,Yes,Valid
+108,Retirement Secure,Pension,,Bank D,No,Missing Details
